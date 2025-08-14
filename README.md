@@ -52,7 +52,7 @@ Benchmarked portfolios against market index performance.
 
 📌 Performance Metrics Table – Sharpe, Treynor, Alpha comparisons.
 
-💡 Key Insights
+Key Insights
 
 Diversification works – Reduced unsystematic risk significantly.
 
@@ -60,7 +60,7 @@ Portfolios near the tangency point offer highest risk-adjusted returns.
 
 Some assets appear undervalued per CAPM beta-return expectations.
 
-📂 Repository Contents
+Repository Contents
 
 Portfolio Theory Management Project.pdf – Full report with methodology, results, and conclusions.
 
@@ -68,12 +68,12 @@ Portfolio Theory Management Project.pdf – Full report with methodology, result
 
 README.md – This dashboard-style overview.
 
-📚 References
+References
 
 Markowitz, H. (1952) Portfolio Selection.
 
 Sharpe, W. (1964) Capital Asset Prices: A Theory of Market Equilibrium.
 
-⚠️ Disclaimer
+Disclaimer
 
 This analysis is for educational purposes only and does not constitute investment advice. Always perform your own due diligence before making financial decisions.
